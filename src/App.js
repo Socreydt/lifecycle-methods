@@ -25,7 +25,7 @@ class App extends React.Component {
               }))
             }
           >
-            Toggle Lifecycles
+            Toggle Lifecycles (windows)
           </button>
           <button
             onClick={() =>
